@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Hej! Welcome to Vico's blog!
 ---
